@@ -1,7 +1,5 @@
 # internship_project
 
-# MyProject - Django Internship Assignment
-
 ## 🔧 Features
 - DRF with JWT Auth
 - Celery with Redis
